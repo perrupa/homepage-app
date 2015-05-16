@@ -1,0 +1,2425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"relat",
+				"relative_date"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"last",
+				"lastBuildStatus"
+			],
+			[
+				"b",
+				"branches_json"
+			],
+			[
+				"bra",
+				"branches"
+			],
+			[
+				"mi",
+				"mixed_branches"
+			],
+			[
+				"brac",
+				"branch"
+			],
+			[
+				"di",
+				"defi	Define initializer method"
+			],
+			[
+				"sub",
+				"subj	subject(:name) {}"
+			],
+			[
+				"cl",
+				"cla	Create controller class"
+			],
+			[
+				"te",
+				"tests_info"
+			],
+			[
+				"fe",
+				"feature_branches"
+			],
+			[
+				"f",
+				"fin	find { |e| .. }"
+			],
+			[
+				"bugf",
+				"bugfix_branches"
+			],
+			[
+				"TEST",
+				"TestPHPUnit"
+			],
+			[
+				"branch",
+				"branch_name"
+			],
+			[
+				"or",
+				"originalConfig"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"concat",
+				"concatFile"
+			],
+			[
+				"ass",
+				"assertNull"
+			],
+			[
+				"p",
+				"property	@property"
+			],
+			[
+				"assc",
+				"asscu	assertCount"
+			],
+			[
+				"$colle",
+				"$collectionSize"
+			],
+			[
+				"$co",
+				"$collection"
+			],
+			[
+				"empty",
+				"emptyCollection"
+			],
+			[
+				"pa",
+				"pathExists"
+			],
+			[
+				"reu",
+				"returnModule"
+			],
+			[
+				"fil",
+				"fileIdentifier"
+			],
+			[
+				"require",
+				"requirejs"
+			],
+			[
+				"module",
+				"moduleType (?)"
+			],
+			[
+				"view",
+				"view_modules"
+			],
+			[
+				"$pro",
+				"$programPKs"
+			],
+			[
+				"$progr",
+				"$programPK"
+			],
+			[
+				"mod",
+				"model"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"pan",
+				"panelCount"
+			],
+			[
+				"yep",
+				"yepNopeTests"
+			],
+			[
+				"$i",
+				"$is_forbidden"
+			],
+			[
+				"$fil",
+				"$fields"
+			],
+			[
+				"arrafi",
+				"array_filter"
+			],
+			[
+				"$fie",
+				"$field"
+			],
+			[
+				"$field",
+				"$field_value"
+			],
+			[
+				"arrfil",
+				"array_filter"
+			],
+			[
+				"arrfi",
+				"array_filter"
+			],
+			[
+				"$ke",
+				"$keys"
+			],
+			[
+				"pr",
+				"pos-r	position: relative;"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"ma",
+				"maw	max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"of",
+				"overflow"
+			],
+			[
+				"S",
+				"skipping"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"cam",
+				"campaignEndRules"
+			],
+			[
+				"Rul",
+				"RuleCollection"
+			],
+			[
+				"ca",
+				"campaignEndRules"
+			],
+			[
+				"red",
+				"renderSelected"
+			],
+			[
+				"rulco",
+				"RuleCollection"
+			],
+			[
+				"is",
+				"isNotANumber"
+			],
+			[
+				"pres",
+				"pressedChar"
+			],
+			[
+				"pre",
+				"pressedKey"
+			],
+			[
+				"C",
+				"ChildInitialize"
+			],
+			[
+				"act",
+				"actions"
+			],
+			[
+				"call",
+				"callFunctionOf"
+			],
+			[
+				"Con",
+				"ConditionCollection"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"ke",
+				"keyProp"
+			],
+			[
+				"bren",
+				"brennan"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"ha",
+				"hasProperty"
+			],
+			[
+				"ob",
+				"objectProperty"
+			],
+			[
+				"get",
+				"getPropertyBinding"
+			],
+			[
+				"rul",
+				"ruleActions"
+			],
+			[
+				"c",
+				"conditions"
+			],
+			[
+				"prop",
+				"propertyName"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"con",
+				"conditions"
+			],
+			[
+				"va",
+				"valueChanged"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"sa",
+				"sayToasty"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"tim",
+				"timeToToast"
+			],
+			[
+				"deful",
+				"default"
+			],
+			[
+				"r",
+				"ruleType"
+			],
+			[
+				"met",
+				"metricPK"
+			],
+			[
+				"click",
+				"clickHandler"
+			],
+			[
+				"add",
+				"addRuleView"
+			],
+			[
+				"$",
+				"$rules"
+			],
+			[
+				"me",
+				"metricPK"
+			],
+			[
+				"set",
+				"setupDatepickers"
+			],
+			[
+				"upda",
+				"updateTitle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 3916,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 83,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"alig",
+				"AlignTab"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"break",
+				"Clear all breakpoints"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"surr",
+				"Surround: surround selection"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"re",
+				"ANF: Rename File"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"scemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"schem",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"su",
+				"Surround: surround selection"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rsp",
+				"Set Syntax: RSpec"
+			],
+			[
+				"renm",
+				"File: Rename"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"log",
+				"Git: Quick Log Current File"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"setting",
+				"Preferences: Settings - User"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gipu",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"dele",
+				"ANF: Delete File"
+			],
+			[
+				"sho",
+				"Git: Show"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"show",
+				"Git: Show"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"copypath",
+				"File: Copy Path"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"jscr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"gstat",
+				"Git: Status"
+			],
+			[
+				"suur",
+				"Surround: surround selection"
+			],
+			[
+				"shw",
+				"Git: Show"
+			],
+			[
+				"aili",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				" sho",
+				"Git: Show"
+			],
+			[
+				"pref",
+				"Preferences: Settings - Default"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"snipun",
+				"Snippet: phpunit"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Toggle Trailing Spaces Highlighting"
+			],
+			[
+				"jump",
+				"TernJS: Jump to definition"
+			],
+			[
+				"copp",
+				"File: Copy Path"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"keys",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"folding",
+				"Code Folding: Unfold All"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"syjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"repl",
+				"SublimeREPL: Node"
+			],
+			[
+				"remop",
+				"Package Control: Remove Package"
+			],
+			[
+				"sy ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"synvim",
+				"Set Syntax: Vintageous Command Line"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"surusel",
+				"Surround: surround selection"
+			],
+			[
+				"paclin",
+				"Package Control: Install Package"
+			],
+			[
+				"alio",
+				"AlignTab: Table Mode"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synlog",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"synbas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bas",
+				"Side Bar: Enable Syncing"
+			],
+			[
+				"ed",
+				"Project: Edit"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"alin",
+				"AlignTab"
+			],
+			[
+				"package con",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packli",
+				"Package Control: List Packages"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"tomap",
+				"View: Toggle Minimap"
+			],
+			[
+				"git sho",
+				"Git: Show"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"sh",
+				"Git: Show"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"ch",
+				"Git: Checkout Commit"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"sublint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"subl",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"xd",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xde",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 863.0,
+		"history":
+		[
+			"gpu_window_buffer",
+			"print('hello')",
+			"print << 'hello'",
+			"print 'hello'",
+			"printf \"hello\"",
+			"echo \"hello\";",
+			"echo \"hello\"",
+			"print \"hello\"",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/www/homepage-app",
+		"/www/homepage-app/app",
+		"/www/homepage-app/app/scripts",
+		"/www/homepage-app/app/styles",
+		"/www/homepage-app/test",
+		"/www/homepage-app/test/spec"
+	],
+	"file_history":
+	[
+		"/www/homepage-app/app/scripts/main.js",
+		"/www/homepage-app/.gitignore",
+		"/www/dashing/Gemfile",
+		"/www/dashing/jobs/phpunit_data.rb",
+		"/www/dashing/widgets/branch/branch.html",
+		"/www/dashing/lib/Branch.rb",
+		"/www/dashing/assets/stylesheets/application.scss",
+		"/www/dashing/dashboards/sample.erb",
+		"/www/dashing/widgets/branches/branches.scss",
+		"/www/dashing/widgets/branch/branch.scss",
+		"/www/dashing/lib/BranchFilterer.rb",
+		"/www/dashing/spec/BranchFilter_spec.rb",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/www/dashing/widgets/branches/branches.coffee",
+		"/www/dashing/widgets/branches/branches.html",
+		"/www/dashing/jobs/tests.rb",
+		"/www/dashing/spec/get_branch_spec.rb",
+		"/www/dashing/spec/spec_helper.rb",
+		"/Users/chris.marlow/Notes/Branching Restrospective.md",
+		"/www/dashing/spec/phploc_spec.rb",
+		"/www/dashing/lib/phploc.rb",
+		"/www/dashing/jobs/git-branches.rb",
+		"/www/dashing/lib/phpunit.rb",
+		"/www/dashing/spec/phpunit_spec.rb",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/www/dashing/widgets/branch/branch.coffee",
+		"/www/dashing/jobs/phploc.rb",
+		"/www/dashing/jobs/phpunit.rb",
+		"/www/dashing/Rakefile",
+		"/www/test/test.php",
+		"/www/dashing/imports/phpunit.xml",
+		"/dev-git/platform-a/src/vendor/phploc/phploc/src/Analyser.php",
+		"/www/dashing/jobs/sample.rb",
+		"/www/dashing/jobs/buzzwords.rb",
+		"/www/dashing/jobs/convergence.rb",
+		"/www/dashing/widgets/graph/graph.coffee",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/www/dashing/dashing.sublime-project",
+		"/www/dashing/Preferences.sublime-project",
+		"/www/dashing/lib/Git.rb",
+		"/www/dashing/jobs/twitter.rb",
+		"/dev-git/platform-a/src/psr/PFATest/Base/Primitives/StringLoc.php",
+		"/dev-git/platform-a/Gruntfile.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/profile/carousel_recognition_collection_view.js",
+		"/dev-git/platform-a/src/system/application/core/views/cron/crontab_list_view.php",
+		"/dev-git/platform-a/src/system/application/models/modules/peer_to_peer_model.php",
+		"/dev-git/platform-a/src/system/application/core/controllers/program_sections/modules/peertopeer.php",
+		"/dev-git/platform-a/src/resources/js/dom/components/modal/file_manager/image_manager.js",
+		"/dev-git/platform-a/src/system/application/views/desktop/managers_corner/custom_rollup_view.php",
+		"/dev-git/platform-a/src/resources/js/views/desktop/managers_corner/rollup_report.js",
+		"/dev-git/platform-a/src/system/application/config/mapping/concat_resource.json",
+		"/dev-git/platform-a/src/resources/js/config/common.js",
+		"/dev-git/platform-a/src/system/application/core/config/config_overide.php",
+		"/dev-git/platform-a/src/system/application/core/controllers/product/product_feed.php",
+		"/dev-git/platform-a/src/resources/library/datatables/js/jquery.dataTables.js",
+		"/dev-git/platform-a/build/grunt-tasks/concat.js",
+		"/dev-git/platform-a/build/grunt-tasks/watch.js",
+		"/dev-git/platform-a/build/grunt-tasks/compass.js",
+		"/dev-git/platform-a/build/grunt-tasks/handlebars.js",
+		"/dev-git/platform-a/build/grunt-tasks/exec.js",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/GitGutter/Default (OSX).sublime-keymap",
+		"/dev-git/platform-a/src/resources/js/routers/core/product/staging_automation_rules.js",
+		"/dev-git/platform-a/src/resources/js/apps/product_rule_builder/app.js",
+		"/dev-git/deploy-scripts/deploy.sh",
+		"/dev-git/platform-a/src/resources/templates/mobile/userSearch/userTileTemplate.handlebars",
+		"/dev-git/platform-a/README.md",
+		"/www/test/index.html",
+		"/dev-git/platform-a/src/system/application/config/config.php",
+		"/dev-git/platform-a/src/system/application/config/config_overide.php",
+		"/dev-git/platform-a/build/requirejs_builder.js",
+		"/dev-git/platform-a/src/resources/js/views/routers/core/programs/list_programs.js",
+		"/dev-git/platform-a/src/resources/js/views/routers/pa_router.js",
+		"/dev-git/platform-a/src/system/application/core/controllers/program_sections/programs_list.php",
+		"/dev-git/platform-a/src/system/application/core/views/globalScriptStyleIncludeBottom.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/admin/viewlets/require_js_viewlet.php",
+		"/dev-git/platform-a/src/resources/js/routers/core/programs/list_programs.js",
+		"/dev-git/platform-a/src/resources/js/config/common_core.js",
+		"/dev-git/platform-a/src/psr/PFA/Component/Asset/Service/AssetManager.php",
+		"/dev-git/platform-a/src/resources/js/apps/product_rule_builder/rule_condition_options/single.js",
+		"/Users/chris.marlow/Desktop/Request for Access to Google Analytics.txt",
+		"/dev-git/platform-a/src/core/scripts/global.js",
+		"/dev-git/platform-a/src/resources/templates/apps/product_rule_builder/conditionTemplates/single.handlebars",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/chris.marlow/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/dev-git/platform-a/src/psr/PFAMock/Component/RulesEngine/Rules.php",
+		"/dev-git/platform-a/src/system/application/core/config/smileys.php",
+		"/dev-git/platform-a/src/system/application/config/smileys.php",
+		"/dev-git/platform-a/src/system/libraries/Loader.php",
+		"/dev-git/platform-a/src/system/application/core/views/product_template.php",
+		"/dev-git/platform-a/src/resources/js/apps/results_driver/results_driver_admin/campaign_list.js",
+		"/dev-git/platform-a/src/system/application/helpers/html_helper.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/viewlets/global_script_include_bottom.php",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/base.scss",
+		"/dev-git/platform-a/src/resources/sass/desktop/styles/global_stylesheet.scss",
+		"/dev-git/platform-a/build/grunt/aliases.js",
+		"/Users/chris.marlow/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/dev-git/platform-a/src/resources/js/config/dependency_manager.js",
+		"/dev-git/platform-a/src/psr/PFATest/Service/Product.php",
+		"/Users/chris.marlow/Desktop/Clean up our build process.",
+		"/dev-git/platform-a/src/resources/library/jquery/jquery-1.10.1.smb.js",
+		"/dev-git/platform-a/src/resources/library/jquery/jquery-1.10.1.js",
+		"/dev-git/platform-a/build/grunt/compass.js",
+		"/dev-git/platform-a/build/grunt/watch.js",
+		"/dev-git/platform-a/build/grunt/exec.js",
+		"/dev-git/platform-a/build/grunt/handlebars.js",
+		"/dev-git/platform-a/build/grunt/uglify.js",
+		"/dev-git/platform-a/build/grunt/concat.js",
+		"/dev-git/platform-a/src/system/application/libraries/asset_management.php",
+		"/dev-git/platform-a/src/system/application/views/desktop/admin/viewlets/cap_style_include.php",
+		"/dev-git/platform-a/src/resources/templates/desktop/address/address.handlebars",
+		"/dev-git/platform-a/src/resources/js/pfa.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/form/address/address_form_view.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/checkout/delivery_details_view.js",
+		"/dev-git/platform-a/src/resources/js/dom/components/form/address/physical_address_form_view.js",
+		"/dev-git/platform-a/build/php_tasks/js_convert_all.php",
+		"/dev-git/platform-a/src/system/application/core/controllers/program_sections/hris_file_management.php",
+		"/dev-git/platform-a/src/system/database/DB_driver.php",
+		"/dev-git/platform-a/src/psr/PFATest/Model/MemberDefinition.php",
+		"/dev-git/platform-a/src/psr/PFAMock/CIDb.php",
+		"/dev-git/platform-a/src/psr/PFA/Service/Asset/AssetManager.php",
+		"/dev-git/platform-a/src/psr/PFA/Model/MemberDefinition.php",
+		"/dev-git/platform-a/src/psr/PFA/Service/Vendor/Product/BestBuy.php",
+		"/dev-git/platform-a/src/psr/PFA/Flow/Vendor/Product/BestBuy.php",
+		"/dev-git/platform-a/PFA.sublime-project",
+		"/dev-git/platform-a/src/psr/PFATest/Service/CrossDataCenterTask.php",
+		"/dev-git/platform-a/src/psr/PFA/Service/CrossDataCenterTask.php",
+		"/dev-git/platform-a/src/psr/PFA/Service/YOSProduct.php",
+		"/dev-git/platform-a/src/psr/PFATest/Service/YOSProduct.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			"*spec*.rb",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"src/system/application/core/*.php",
+			"*",
+			"*.js",
+			"*",
+			"*.php",
+			"*.js",
+			"",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"psr/**/*.php",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*",
+			"*.css",
+			"",
+			"*.js",
+			"*",
+			"*.php",
+			"*.js",
+			"",
+			"*.scss",
+			"",
+			"*.js",
+			"*.php",
+			"*.js*",
+			"",
+			"*.php",
+			"",
+			"*.*css",
+			"*.js",
+			"*",
+			"*.js",
+			"",
+			"*.js",
+			"*.php",
+			"*.js*",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"/src/system/application/views/desktop/viewlets/grid_views/",
+			"/src/system/application/views/desktop/viewlets/grid_views/**/*.php",
+			"/src/system/application/views/desktop/viewlets/grid_views/*.php",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"<open files>",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.js",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"",
+			"*.js",
+			"*.scss",
+			"*.js",
+			"*.handlebars",
+			"*.php",
+			"*.js",
+			"*.php",
+			"*.phph",
+			"*.handlebars",
+			"*.js",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"*.handlebars",
+			"*.scss",
+			"*.js",
+			"",
+			"*.js",
+			"",
+			"*.php",
+			"*.scss",
+			"*.php",
+			"*.scss",
+			"",
+			"*.php",
+			"*.scss",
+			"",
+			"*.php",
+			"views/*/*.php",
+			"*.php",
+			"",
+			"*.php",
+			"*.js",
+			"*.scss",
+			"*.php"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require",
+			"active_support",
+			"activesupport",
+			"matcher",
+			"toJSON",
+			"self.",
+			".\n",
+			".",
+			"@",
+			"= ",
+			" \"",
+			"name\" =>",
+			" }",
+			"now",
+			"old",
+			"new",
+			"old",
+			"end",
+			"new_date",
+			"date",
+			"old",
+			"\"lastBuildTime",
+			"Date.parse",
+			"b",
+			"build_time",
+			"id",
+			"be_a",
+			"},",
+			"{}",
+			"{",
+			"lastBuildTime",
+			"li",
+			"branch",
+			"           =>",
+			"      \"",
+			" =>  ",
+			"Success",
+			"=>  \"Success",
+			"=>  \"",
+			"master",
+			"Array",
+			"self.",
+			"branches.",
+			"branches",
+			"( branches",
+			"3030 ",
+			"3030",
+			":3030",
+			"3030",
+			"lastBuildStatus",
+			"name",
+			"aranchFilterer",
+			"BranchFilterer",
+			".tests.passing",
+			"showif",
+			"> <",
+			" ",
+			"fff",
+			"tests_info",
+			"      \"",
+			"), \"",
+			"ignores",
+			"master",
+			"\"name\" =>",
+			"stub",
+			"name",
+			"stub",
+			"bugfix_branches",
+			"GetAllBranchUnitTestsCommand",
+			"dashboard",
+			"bugfixes",
+			"'",
+			" '",
+			"b['name'] =~ /bugfix/i",
+			"pp",
+			"\n    ",
+			"data",
+			"puts",
+			"@data = ",
+			"name",
+			"b_name",
+			"branch",
+			"data",
+			"test",
+			"\n  ",
+			"2",
+			"\"",
+			"1",
+			"get",
+			"get_by_branch",
+			"get",
+			"get_by_branch",
+			"=>",
+			"=",
+			"( branch_name )",
+			"puts",
+			"phpunit",
+			"Object",
+			"data",
+			"@",
+			"    phpunit",
+			"PHPUnit",
+			"phpunit",
+			"@data",
+			"@",
+			"testsuite_data",
+			"result",
+			"#",
+			"demand",
+			"testsuite_data['",
+			"@testsuite_data",
+			"eq",
+			"expect( ",
+			"be_a",
+			"eql",
+			"be",
+			"350",
+			"xml",
+			"PHPLocRepository",
+			"XML",
+			"Object",
+			"PHPLocRepository",
+			"phpunit",
+			"key",
+			"require",
+			"value( ",
+			"value",
+			"$addThree)->"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"sorttabs_lastactivated": 1431808098.89,
+							"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": true,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_insert",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 9
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"sorttabs_lastactivated": 1431808157.7,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 15
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 263.0
+	},
+	"output.find_results":
+	{
+		"height": 716.0
+	},
+	"output.git-commit":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "Packages/User/Build Systems/php.sublime-build",
+	"project": "homepage-app.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mainjs",
+				"app/scripts/main.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"main",
+				"app/scripts/main.js"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"bra",
+				"lib/Branch.rb"
+			],
+			[
+				"branches",
+				"widgets/branches/branches.html"
+			],
+			[
+				"branhscs",
+				"widgets/branch/branch.scss"
+			],
+			[
+				"branch",
+				"widgets/branch/branch.html"
+			],
+			[
+				"spec",
+				"spec/BranchFilter_spec.rb"
+			],
+			[
+				"spe",
+				"spec/BranchFilter_spec.rb"
+			],
+			[
+				"branes",
+				"widgets/branches/branches.coffee"
+			],
+			[
+				"jo",
+				"jobs/tests.rb"
+			],
+			[
+				"get",
+				"lib/GetAllBranchUnitTestsCommand.rb"
+			],
+			[
+				"sam",
+				"dashboards/sample.erb"
+			],
+			[
+				"testsco",
+				"widgets/tests/tests.coffee"
+			],
+			[
+				"test",
+				"jobs/tests.rb"
+			],
+			[
+				"locsp",
+				"spec/phploc_spec.rb"
+			],
+			[
+				"phpun",
+				"lib/phpunit.rb"
+			],
+			[
+				"gitb",
+				"jobs/git-branches.rb"
+			],
+			[
+				"pecrb",
+				"spec/phploc_spec.rb"
+			],
+			[
+				"locrb",
+				"lib/phploc.rb"
+			],
+			[
+				"phploc",
+				"lib/phploc.rb"
+			],
+			[
+				"unit",
+				"spec/phpunit_spec.rb"
+			],
+			[
+				"phplos",
+				"spec/phploc_spec.rb"
+			],
+			[
+				"phpunit",
+				"jobs/phpunit.rb"
+			],
+			[
+				"phpu",
+				"spec/phpunit_spec.rb"
+			],
+			[
+				"tests/test_phpunit.rb",
+				"tests/test_phpunit.rb"
+			],
+			[
+				"brancoff",
+				"widgets/branch/branch.coffee"
+			],
+			[
+				"jobs/lo",
+				"jobs/phploc.rb"
+			],
+			[
+				"phplo",
+				"jobs/phploc.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"bran",
+				"widgets/branches/branches.coffee"
+			],
+			[
+				"gitrb",
+				"jobs/git-branches.rb"
+			],
+			[
+				"buzz",
+				"jobs/buzzwords.rb"
+			],
+			[
+				"c",
+				"jobs/convergence.rb"
+			],
+			[
+				"conv",
+				"jobs/convergence.rb"
+			],
+			[
+				"graph",
+				"widgets/graph/graph.coffee"
+			],
+			[
+				"same",
+				"dashboards/sample.erb"
+			],
+			[
+				"pre",
+				"dashing.sublime-project"
+			],
+			[
+				"dash",
+				"dashing.sublime-project"
+			],
+			[
+				"git",
+				"lib/Git.rb"
+			],
+			[
+				"conf",
+				"config.ru"
+			],
+			[
+				"managers_corner/custom_rollup_view",
+				"src/system/application/views/desktop/managers_corner/custom_rollup_view.php"
+			],
+			[
+				"imageman",
+				"src/resources/js/dom/components/modal/file_manager/image_manager.js"
+			],
+			[
+				"coremodules/peertopeer.php",
+				"src/system/application/core/controllers/program_sections/modules/peertopeer.php"
+			],
+			[
+				"modules/peertopeer.php",
+				"src/system/application/core/controllers/program_sections/modules/peertopeer.php"
+			],
+			[
+				"src/system/application/models/modules/peer_to_peer_model.php",
+				"src/system/application/models/modules/peer_to_peer_model.php"
+			],
+			[
+				"crontab_list_view",
+				"src/system/application/core/views/cron/crontab_list_view.php"
+			],
+			[
+				"carousel_recognition_collection_view",
+				"src/resources/js/dom/components/profile/carousel_recognition_collection_view.js"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"concatjs",
+				"src/system/application/config/mapping/concat_resource.json"
+			],
+			[
+				"commonjs",
+				"src/resources/js/config/common.js"
+			],
+			[
+				"coreconver",
+				"src/system/application/core/config/config_overide.php"
+			],
+			[
+				"datatable.ja",
+				"src/resources/library/datatables/js/jquery.dataTables.js"
+			],
+			[
+				"staginauto",
+				"src/resources/js/routers/core/product/staging_automation_rules.js"
+			],
+			[
+				"src/resources/templates/mobile/usersearch/usertiletemplate.handlebars",
+				"src/resources/templates/mobile/userSearch/userTileTemplate.handlebars"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"commcor",
+				"src/resources/js/config/common_core.js"
+			],
+			[
+				"commco",
+				"src/resources/js/config/common_core.js"
+			],
+			[
+				"pa_router",
+				"src/resources/js/views/routers/pa_router.js"
+			],
+			[
+				"core/programs/list_programs",
+				"src/resources/js/views/routers/core/programs/list_programs.js"
+			],
+			[
+				"routers/core/programs/list_programs",
+				"src/resources/js/routers/core/programs/list_programs.js"
+			],
+			[
+				"build/requirejs_builder",
+				"build/requirejs_builder.js"
+			],
+			[
+				"concat",
+				"src/system/application/config/mapping/concat_resource.json"
+			],
+			[
+				"requirephp",
+				"src/system/application/views/desktop/admin/viewlets/require_js_viewlet.php"
+			],
+			[
+				"coreconfove",
+				"src/system/application/core/config/config_overide.php"
+			],
+			[
+				"conficonfi",
+				"src/system/application/config/config.php"
+			],
+			[
+				"confover",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"product_rule_builder/conditiontemplates/single",
+				"src/resources/templates/apps/product_rule_builder/conditionTemplates/single.handlebars"
+			],
+			[
+				"commcore",
+				"src/resources/js/config/common_core.js"
+			],
+			[
+				"smily",
+				"src/system/application/core/config/smileys.php"
+			],
+			[
+				"smil",
+				"src/system/application/config/smileys.php"
+			],
+			[
+				"system/libraries/loader.php",
+				"src/system/libraries/Loader.php"
+			],
+			[
+				"apps/product_rule_builder/app",
+				"src/resources/js/apps/product_rule_builder/app.js"
+			],
+			[
+				"routers/core/product/staging_automation_rules",
+				"src/resources/js/routers/core/product/staging_automation_rules.js"
+			],
+			[
+				"js/config/common_core",
+				"src/resources/js/config/common_core.js"
+			],
+			[
+				"globalscriptstyleincludebottom.php",
+				"src/system/application/core/views/globalScriptStyleIncludeBottom.php"
+			],
+			[
+				"product_template",
+				"src/system/application/core/views/product_template.php"
+			],
+			[
+				"prducfeed",
+				"src/system/application/core/controllers/product/product_feed.php"
+			],
+			[
+				"build/gruntal",
+				"build/grunt/aliases.js"
+			],
+			[
+				"config/dependency_manager",
+				"src/resources/js/config/dependency_manager.js"
+			],
+			[
+				"resources/js/config/common",
+				"src/resources/js/config/common.js"
+			],
+			[
+				"require_js_viewlet",
+				"src/system/application/views/desktop/admin/viewlets/require_js_viewlet.php"
+			],
+			[
+				"scriptincl",
+				"src/system/application/views/desktop/viewlets/global_script_include_bottom.php"
+			],
+			[
+				"basescs",
+				"src/resources/sass/desktop/styles/base.scss"
+			],
+			[
+				"src/resources/sass/desktopgl",
+				"src/resources/sass/desktop/styles/global_stylesheet.scss"
+			],
+			[
+				"psr/pfatest/service/product.php",
+				"src/psr/PFATest/Service/Product.php"
+			],
+			[
+				"jquerysmb",
+				"src/resources/library/jquery/jquery-1.10.1.smb.js"
+			],
+			[
+				"requirejs_builder",
+				"build/requirejs_builder.js"
+			],
+			[
+				"alia",
+				"build/grunt/aliases.js"
+			],
+			[
+				"watc",
+				"build/grunt/watch.js"
+			],
+			[
+				"comp",
+				"build/grunt/compass.js"
+			],
+			[
+				"handl",
+				"build/grunt/handlebars.js"
+			],
+			[
+				"exec",
+				"build/grunt/exec.js"
+			],
+			[
+				"assetman",
+				"src/system/application/libraries/asset_management.php"
+			],
+			[
+				"conca",
+				"src/system/application/config/mapping/concat_resource.json"
+			],
+			[
+				"dtoasset",
+				"src/psr/PFA/Component/Asset/DTO/Asset.php"
+			],
+			[
+				"js_convert_all.php",
+				"build/php_tasks/js_convert_all.php"
+			],
+			[
+				"physical_address_form_view",
+				"src/resources/js/dom/components/form/address/physical_address_form_view.js"
+			],
+			[
+				"delivdetal",
+				"src/resources/js/dom/components/checkout/delivery_details_view.js"
+			],
+			[
+				"addresshan",
+				"src/resources/templates/desktop/address/address.handlebars"
+			],
+			[
+				"program_sections/hris_file_management.php",
+				"src/system/application/core/controllers/program_sections/hris_file_management.php"
+			],
+			[
+				"dbdri",
+				"src/system/database/DB_driver.php"
+			],
+			[
+				"sr/pfamock/cidb.php",
+				"src/psr/PFAMock/CIDb.php"
+			],
+			[
+				"pfa/model/memberdefinition",
+				"src/psr/PFA/Model/MemberDefinition.php"
+			],
+			[
+				"sr/pfatest/service/crossdatacentertask.",
+				"src/psr/PFATest/Service/CrossDataCenterTask.php"
+			],
+			[
+				"pfatest/service/crossdatacentertask.php",
+				"src/psr/PFATest/Service/CrossDataCenterTask.php"
+			],
+			[
+				"/service/crossdatacentertask.php",
+				"src/psr/PFA/Service/CrossDataCenterTask.php"
+			],
+			[
+				"service/crossdatacentertask.php",
+				"src/psr/PFA/Service/CrossDataCenterTask.php"
+			],
+			[
+				"vendbest",
+				"src/psr/PFA/Service/Vendor/Product/BestBuy.php"
+			],
+			[
+				"vendbestb",
+				"src/psr/PFA/Flow/Vendor/Product/BestBuy.php"
+			],
+			[
+				"croncrontablist",
+				"src/system/application/core/views/cron/crontab_list_view.php"
+			],
+			[
+				"crontalist",
+				"src/system/application/core/views/cron/crontab_list_view.php"
+			],
+			[
+				"converid",
+				"src/system/application/config/config_overide.php"
+			],
+			[
+				"compose",
+				"src/composer.lock"
+			],
+			[
+				"compo",
+				"src/composer.json"
+			],
+			[
+				"serviceyospro",
+				"src/psr/PFA/Service/YOSProduct.php"
+			],
+			[
+				"pfatyosprod",
+				"src/psr/PFATest/Service/YOSProduct.php"
+			],
+			[
+				"testyosp",
+				"src/psr/PFATest/Flow/YOSProduct.php"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"usershelp",
+				"src/system/application/helpers/modules/users_helper.php"
+			],
+			[
+				"boosthelp",
+				"src/system/application/helpers/modules/boost_button_helper.php"
+			],
+			[
+				"pfatest/model/memberdefinition",
+				"src/psr/PFATest/Model/MemberDefinition.php"
+			],
+			[
+				"points",
+				"src/system/application/helpers/points_helper.php"
+			],
+			[
+				"src/psr/pfatest/service/points/calculaterates.php",
+				"src/psr/PFATest/Service/points/CalculateRates.php"
+			],
+			[
+				"pfa/library/memcache",
+				"src/psr/PFA/Library/Memcache.php"
+			],
+			[
+				"pfatest/library/memcache",
+				"src/psr/PFATest/Library/Memcache.php"
+			],
+			[
+				"dompdf/dompdf_config",
+				"src/system/plugins/dompdf/dompdf_config.inc.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/dev-git/platform-a/PFA.sublime-project"
+			],
+			[
+				"dashin",
+				"/www/dashing/dashing.sublime-project"
+			],
+			[
+				"pfa",
+				"/dev-git/platform-a/PFA.sublime-project"
+			],
+			[
+				"pf",
+				"/dev-git/platform-a/PFA.sublime-project"
+			],
+			[
+				"subl",
+				"~/scripts/scripts.sublime-project"
+			],
+			[
+				"das",
+				"/www/dashing/dashing.sublime-project"
+			],
+			[
+				"not",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"notes",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"note",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"ta",
+				"/www/fragile-to-agile/fragile-to-agile.sublime-project"
+			],
+			[
+				"no",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			],
+			[
+				"nor",
+				"~/Dropbox (Personal)/Sublime Projects/Notes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 31.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GetAllBranchUnitTestsCommand",
+				"GetAllBranchUnitTestsCommand"
+			],
+			[
+				"updateRules",
+				"updateRules"
+			],
+			[
+				"printJS",
+				"printJS"
+			],
+			[
+				"load_require_js",
+				"load_require_js"
+			],
+			[
+				"getProductsByPk__validInput",
+				"getProductsByPk__validInput"
+			],
+			[
+				"regionCheck__validInput",
+				"regionCheck__validInput"
+			],
+			[
+				"buildLangEntry",
+				"buildLangEntry"
+			],
+			[
+				"getLang",
+				"getLang"
+			],
+			[
+				"writeFeedFile",
+				"writeFeedFile"
+			],
+			[
+				"escape",
+				"escape"
+			],
+			[
+				"disabledAccountStatus",
+				"disabledAccountStatus"
+			],
+			[
+				"testSkipped",
+				"testSkipped"
+			],
+			[
+				"skiptes",
+				"skipTest"
+			],
+			[
+				"points",
+				"Points"
+			],
+			[
+				"pdfcr",
+				"pdf_create"
+			],
+			[
+				"notifyReportsToApprovalRequired",
+				"notifyReportsToApprovalRequired"
+			],
+			[
+				"createTaskForAllDataCenters",
+				"createTaskForAllDataCenters"
+			],
+			[
+				"createMultipleTasksOneDC",
+				"createMultipleTasksOneDC"
+			],
+			[
+				"getfoo",
+				"getFooCollection"
+			],
+			[
+				"testWriteFeedFile",
+				"testWriteFeedFile"
+			],
+			[
+				"createMultipleTasks",
+				"createMultipleTasks"
+			],
+			[
+				"setupdi",
+				"setupDialog"
+			],
+			[
+				"flatten_result_array",
+				"flatten_result_array"
+			],
+			[
+				"dispal",
+				"display"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"number_format",
+				"number_format"
+			],
+			[
+				"view_hidden",
+				"view_hidden"
+			],
+			[
+				"get loaded lan",
+				"get_loaded_langs"
+			],
+			[
+				"render_sidebar",
+				"render_sidebar"
+			],
+			[
+				"rendernewfeeve",
+				"render_news_feed_event_image"
+			],
+			[
+				"nomin",
+				"nominate"
+			],
+			[
+				"get_all_programs_in_platform",
+				"get_all_programs_in_platform"
+			],
+			[
+				"ecjson",
+				"echo_json"
+			],
+			[
+				"set_program_version",
+				"set_program_version"
+			],
+			[
+				"currprolo",
+				"Current_program_loader"
+			],
+			[
+				"Current_program_loader",
+				"Current_program_loader"
+			],
+			[
+				"generate_xsrf_token_value",
+				"generate_xsrf_token_value"
+			],
+			[
+				"show_program",
+				"show_program"
+			],
+			[
+				"userpopin",
+				"userPopupInfoHolder"
+			],
+			[
+				"get_content_between_tag",
+				"get_content_between_tag"
+			],
+			[
+				"aja",
+				"ajax_get_message"
+			],
+			[
+				"get_notification_content",
+				"get_notification_content"
+			],
+			[
+				"ajax_get_message",
+				"ajax_get_message"
+			],
+			[
+				"processDa",
+				"processData"
+			],
+			[
+				"echo_response",
+				"echo_response"
+			],
+			[
+				"echojs",
+				"echo_json"
+			],
+			[
+				"echo_json",
+				"echo_json"
+			],
+			[
+				"render_news_feed_favourite_button",
+				"render_news_feed_favourite_button"
+			],
+			[
+				"render_news_feed_event_body",
+				"render_news_feed_event_body"
+			],
+			[
+				"render_profile_field",
+				"render_profile_field"
+			],
+			[
+				"filter_fields",
+				"filter_fields"
+			],
+			[
+				"validate",
+				"validate"
+			],
+			[
+				"get_nested_value",
+				"get_nested_value"
+			],
+			[
+				" render_profile_field",
+				"render_profile_field"
+			],
+			[
+				"add_edr_tag_to_this_p2p_module",
+				"add_edr_tag_to_this_p2p_module"
+			],
+			[
+				"get_filter_join",
+				"get_filter_join"
+			],
+			[
+				"get_manual_override_css_link",
+				"get_manual_override_css_link"
+			],
+			[
+				"setcookie",
+				"setCookie"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"encode html",
+				"encode_html_attr"
+			],
+			[
+				"create",
+				"create"
+			],
+			[
+				"getmetricp",
+				"get_metric_pk"
+			],
+			[
+				"log_metr",
+				"log_metrics"
+			],
+			[
+				"updateModel",
+				"updateModel"
+			],
+			[
+				"createRule",
+				"createRule"
+			],
+			[
+				"relat",
+				"relativize"
+			],
+			[
+				"rel",
+				"release"
+			],
+			[
+				"floa",
+				"floatLeft"
+			],
+			[
+				"floatl",
+				"floatL"
+			],
+			[
+				"rounded",
+				"rounded"
+			],
+			[
+				"setupd",
+				"setupDialog"
+			],
+			[
+				"reduce",
+				"reduce"
+			],
+			[
+				"getres",
+				"getResource"
+			]
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "Bran",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "{",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Applications/Sublime Text.app/Contents/MacOS"
+		},
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
