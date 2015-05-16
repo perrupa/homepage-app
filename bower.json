@@ -2,6 +2,7 @@
   "name": "homepage-app",
   "private": true,
   "dependencies": {
-    "skeleton": "~2.0.4"
+    "skeleton": "~2.0.4",
+    "normalize.less": "~1.0.0"
   }
 }
