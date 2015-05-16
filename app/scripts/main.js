@@ -1,7 +1,4 @@
 'use strict';
 
-let allo = () => {
-	console.log(`#{app_name} started`);
-};
-
-allo();
+var app = require("./app");
+app.start();
