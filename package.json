@@ -26,11 +26,14 @@
     "main-bower-files": "^2.5.0",
     "opn": "^1.0.1",
     "wiredep": "^2.2.2",
-		"babel": "^5.2.3",
+    "babel": "^5.2.3",
     "gulp-babel": "^5.1.0",
-	  "babel-eslint": "^3.0.1",
-	  "babelify": "^6.0.2",
+    "babel-eslint": "^3.0.1",
+    "babelify": "^6.0.2",
     "browserify": "^10.0.0",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "backbone.marionette": "^2.4.1"
   }
 }

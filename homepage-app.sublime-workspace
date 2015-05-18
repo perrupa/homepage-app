@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"deb",
+				"debowerify"
+			],
+			[
 				"relat",
 				"relative_date"
 			],
@@ -373,25 +377,6 @@
 			]
 		]
 	},
-	"buffers":
-	[
-		{
-			"file": "gulpfile.js",
-			"settings":
-			{
-				"buffer_size": 3916,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "app/scripts/main.js",
-			"settings":
-			{
-				"buffer_size": 83,
-				"line_ending": "Unix"
-			}
-		}
-	],
 	"build_system": "",
 	"build_system_choices":
 	[
@@ -400,9 +385,53 @@
 	"command_palette":
 	{
 		"height": 375.0,
-		"last_filter": "insta",
+		"last_filter": "sur",
 		"selected_items":
 		[
+			[
+				"sur",
+				"Surround: surround selection"
+			],
+			[
+				"edit",
+				"Project: Edit Project"
+			],
+			[
+				"delete",
+				"ANF: Delete Current File"
+			],
+			[
+				"dele",
+				"ANF: Delete File"
+			],
+			[
+				"del",
+				"ANF: Delete File"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"coppat",
+				"File: Copy Path"
+			],
+			[
+				"copyp",
+				"File: Copy Path"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -446,10 +475,6 @@
 			[
 				"surr",
 				"Surround: surround selection"
-			],
-			[
-				"del",
-				"File: Delete"
 			],
 			[
 				"rena",
@@ -548,14 +573,6 @@
 				"Indentation: Reindent Lines"
 			],
 			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"edit",
-				"Project: Edit"
-			],
-			[
 				"rename",
 				"File: Rename"
 			],
@@ -592,10 +609,6 @@
 				"Git: Commit"
 			],
 			[
-				"dele",
-				"ANF: Delete File"
-			],
-			[
 				"sho",
 				"Git: Show"
 			],
@@ -620,16 +633,8 @@
 				"Git: Show"
 			],
 			[
-				"delete",
-				"File: Delete"
-			],
-			[
 				"copypath",
 				"File: Copy Path"
-			],
-			[
-				"edi",
-				"Project: Edit"
 			],
 			[
 				"jscr",
@@ -894,26 +899,6 @@
 			[
 				"di",
 				"Git: Diff Current File"
-			],
-			[
-				"sublint",
-				"Preferences: SublimeLinter Settings – User"
-			],
-			[
-				"subl",
-				"SublimeLinter: Clear Caches"
-			],
-			[
-				"xd",
-				"Xdebug: Stop Debugging"
-			],
-			[
-				"xde",
-				"Xdebug: Start Debugging"
-			],
-			[
-				"stop",
-				"Xdebug: Stop Debugging"
 			]
 		],
 		"width": 534.0
@@ -943,17 +928,19 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/www/homepage-app",
-		"/www/homepage-app/app",
-		"/www/homepage-app/app/scripts",
-		"/www/homepage-app/app/styles",
-		"/www/homepage-app/test",
-		"/www/homepage-app/test/spec"
-	],
 	"file_history":
 	[
+		"/www/homepage-app/node_modules/backbone.marionette/lib/backbone.marionette.js",
+		"/www/homepage-app/bower_components/marionette/lib/backbone.marionette.js",
+		"/www/homepage-app/app/scripts/marionette_shim.js",
+		"/www/homepage-app/app/scripts/app.js",
+		"/www/homepage-app/bower.json",
+		"/www/homepage-app/node_modules/browserify/node_modules/resolve/lib/async.js",
+		"/www/homepage-app/homepage-app.sublime-project",
+		"/www/homepage-app/gulpfile.js",
+		"/www/homepage-app/bower_components/skeleton/css/skeleton.css",
+		"/www/homepage-app/.eslintrc",
+		"/www/homepage-app/.editorconfig",
 		"/www/homepage-app/app/scripts/main.js",
 		"/www/homepage-app/.gitignore",
 		"/www/dashing/Gemfile",
@@ -1070,18 +1057,7 @@
 		"/dev-git/platform-a/src/resources/js/dom/components/form/address/physical_address_form_view.js",
 		"/dev-git/platform-a/build/php_tasks/js_convert_all.php",
 		"/dev-git/platform-a/src/system/application/core/controllers/program_sections/hris_file_management.php",
-		"/dev-git/platform-a/src/system/database/DB_driver.php",
-		"/dev-git/platform-a/src/psr/PFATest/Model/MemberDefinition.php",
-		"/dev-git/platform-a/src/psr/PFAMock/CIDb.php",
-		"/dev-git/platform-a/src/psr/PFA/Service/Asset/AssetManager.php",
-		"/dev-git/platform-a/src/psr/PFA/Model/MemberDefinition.php",
-		"/dev-git/platform-a/src/psr/PFA/Service/Vendor/Product/BestBuy.php",
-		"/dev-git/platform-a/src/psr/PFA/Flow/Vendor/Product/BestBuy.php",
-		"/dev-git/platform-a/PFA.sublime-project",
-		"/dev-git/platform-a/src/psr/PFATest/Service/CrossDataCenterTask.php",
-		"/dev-git/platform-a/src/psr/PFA/Service/CrossDataCenterTask.php",
-		"/dev-git/platform-a/src/psr/PFA/Service/YOSProduct.php",
-		"/dev-git/platform-a/src/psr/PFATest/Service/YOSProduct.php"
+		"/dev-git/platform-a/src/system/database/DB_driver.php"
 	],
 	"find":
 	{
@@ -1227,6 +1203,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(",
+			"require",
+			"(",
+			"es6",
+			"underscore",
+			"backbone",
+			"var ",
+			"\"",
+			"Marionette",
+			"browserify",
+			"babelify",
+			"browserify",
+			"debowerify",
+			"browserifdebowerifyy",
+			"browserify",
+			"debowerify",
+			"browserify",
+			"js",
+			"Marionette",
+			"marionnete",
+			"Marionnete",
+			"App",
+			"strict",
+			"skeleton",
+			"<a",
+			"about",
+			"class",
+			"home",
+			"<li>",
+			"less",
+			"sty",
+			"sthy",
+			"server",
+			"style",
+			"ignore",
 			"require",
 			"active_support",
 			"activesupport",
@@ -1319,42 +1330,7 @@
 			"get_by_branch",
 			"get",
 			"get_by_branch",
-			"=>",
-			"=",
-			"( branch_name )",
-			"puts",
-			"phpunit",
-			"Object",
-			"data",
-			"@",
-			"    phpunit",
-			"PHPUnit",
-			"phpunit",
-			"@data",
-			"@",
-			"testsuite_data",
-			"result",
-			"#",
-			"demand",
-			"testsuite_data['",
-			"@testsuite_data",
-			"eq",
-			"expect( ",
-			"be_a",
-			"eql",
-			"be",
-			"350",
-			"xml",
-			"PHPLocRepository",
-			"XML",
-			"Object",
-			"PHPLocRepository",
-			"phpunit",
-			"key",
-			"require",
-			"value( ",
-			"value",
-			"$addThree)->"
+			"=>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1370,103 +1346,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"selected": 1,
-			"sheets":
-			[
-				{
-					"buffer": 0,
-					"file": "gulpfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3916,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"sorttabs_lastactivated": 1431808098.89,
-							"syntax": "Packages/Seti_UI/Langs/Gulpfile JS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"_vintageous_glue_until_normal_mode": true,
-								"action": null,
-								"action_count": "",
-								"mode": "mode_insert",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"normal_insert_count": "1",
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 9
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/scripts/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 83,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								30,
-								30
-							]
-						],
-						"settings":
-						{
-							"sorttabs_lastactivated": 1431808157.7,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"must_capture_register_name": false,
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 15
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 42.0
@@ -1511,7 +1390,6 @@
 		"height": 156.0
 	},
 	"pinned_build_system": "Packages/User/Build Systems/php.sublime-build",
-	"project": "homepage-app.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -1524,12 +1402,48 @@
 		"selected_items":
 		[
 			[
-				"mainjs",
-				"app/scripts/main.js"
+				"bacbmar",
+				"bower_components/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"gu",
+				"gulpfile.js"
+			],
+			[
+				"marionette",
+				"bower_components/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"bower",
+				"bower.json"
 			],
 			[
 				"gul",
 				"gulpfile.js"
+			],
+			[
+				"mari",
+				"bower_components/marionette/lib/backbone.marionette.js"
+			],
+			[
+				"/skeleton/css/skeleton",
+				"bower_components/skeleton/css/skeleton.css"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"html",
+				"app/index.html"
+			],
+			[
+				"mainjs",
+				"app/scripts/main.js"
 			],
 			[
 				"main",
@@ -1998,42 +1912,6 @@
 			[
 				"testyosp",
 				"src/psr/PFATest/Flow/YOSProduct.php"
-			],
-			[
-				"gruntf",
-				"Gruntfile.js"
-			],
-			[
-				"usershelp",
-				"src/system/application/helpers/modules/users_helper.php"
-			],
-			[
-				"boosthelp",
-				"src/system/application/helpers/modules/boost_button_helper.php"
-			],
-			[
-				"pfatest/model/memberdefinition",
-				"src/psr/PFATest/Model/MemberDefinition.php"
-			],
-			[
-				"points",
-				"src/system/application/helpers/points_helper.php"
-			],
-			[
-				"src/psr/pfatest/service/points/calculaterates.php",
-				"src/psr/PFATest/Service/points/CalculateRates.php"
-			],
-			[
-				"pfa/library/memcache",
-				"src/psr/PFA/Library/Memcache.php"
-			],
-			[
-				"pfatest/library/memcache",
-				"src/psr/PFATest/Library/Memcache.php"
-			],
-			[
-				"dompdf/dompdf_config",
-				"src/system/plugins/dompdf/dompdf_config.inc.php"
 			]
 		],
 		"width": 0.0
@@ -2396,13 +2274,12 @@
 		],
 		"width": 378.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
-		"_vintageous_last_buffer_search": "Bran",
+		"_vintageous_last_buffer_search": "style",
 		"_vintageous_last_buffer_search_command": "vi_slash",
-		"_vintageous_last_char_search_command": "vi_f",
-		"_vintageous_last_character_search": "{",
+		"_vintageous_last_char_search_command": "vi_t",
+		"_vintageous_last_character_search": ")",
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
@@ -2417,7 +2294,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 216.0,
+	"side_bar_width": 311.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
