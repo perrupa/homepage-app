@@ -4,10 +4,15 @@ var Backbone = require('backbone');
 Backbone.$ = require('jquery');
 var Marionette = require('backbone.marionette');
 
-var App = Marionette.ItemView.extend({
+class App extends Marionette.LayoutView {
 	initialize() {
 		console.log('App intializing...');
+		this.loadContent();
 	}
-})
+
+	loadContent () {
+		this.$(".page-content").html("Content Loaded.");
+	}
+}
 
 module.exports = App;

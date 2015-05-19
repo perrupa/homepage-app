@@ -1,13 +1,13 @@
 /*global -$ */
 'use strict';
 // generated on 2015-05-16 using generator-es6-webapp 0.1.0
-var gulp = require('gulp');
-var $ = require('gulp-load-plugins')();
+var gulp        = require('gulp');
+var $           = require('gulp-load-plugins')();
 var browserSync = require('browser-sync');
-var reload = browserSync.reload;
-var browserify = require('browserify');
-var babelify = require('babelify');
-var source = require('vinyl-source-stream');
+var reload      = browserSync.reload;
+var browserify  = require('browserify');
+var babelify    = require('babelify');
+var source      = require('vinyl-source-stream');
 
 
 
