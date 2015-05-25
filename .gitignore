@@ -1,5 +1,11 @@
+# Workspace history
+homepage-app.sublime-workspace
+
+# external libraries
 node_modules
-dist
-.tmp
 bower_components
 test/bower_components
+
+# compiled assets
+dist
+.tmp
