@@ -70,6 +70,12 @@ gulp.task('images', function () {
     .pipe(gulp.dest('dist/images'));
 });
 
+gulp.task('markdown', function () {
+  return gulp.src('app/**/*.md')
+    .pipe( $.cache( $.markdown() ) )
+    .pipe( gulp.dest('dist') );
+});
+
 gulp.task('fonts', function () {
   return gulp.src(require('main-bower-files')({
     filter: '**/*.{eot,svg,ttf,woff,woff2}'
@@ -103,7 +109,7 @@ gulp.task('wiredep', function () {
 
 gulp.task('preflight',['eslint']);
 
-gulp.task('produce',['preflight','wiredep','es6','less','images','fonts']);
+gulp.task('produce',['preflight','wiredep','es6','markdown','less','images','fonts']);
 
 gulp.task('package',['produce','html','extras']);
 
@@ -122,11 +128,13 @@ gulp.task('serve', ['produce'], function () {
   // watch for changes
   gulp.watch([
     'app/*.html',
+    'app/**/*.md',
     'app/scripts/**/*.js',
     'app/images/**/*',
     '.tmp/fonts/**/*'
   ]).on('change', reload);
 
+  gulp.watch('app/**/*.md', ['markdown']);
   gulp.watch('app/styles/**/*.less', ['less']);
   gulp.watch('app/fonts/**/*', ['fonts']);
   gulp.watch('bower.json', ['wiredep', 'fonts']);
